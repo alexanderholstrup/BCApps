@@ -87,7 +87,7 @@
     ]
   },
   "UpdateALGoSystemFilesEnvironment": "Official-Build",
-  "templateSha": "81401b56df3541e9945b0c2896f0ebc9c851bb78",
+  "templateSha": "9be916968e10bcc253c2951efc3321558d598739",
   "commitOptions": {
     "messageSuffix": "Related to AB#539394",
     "pullRequestAutoMerge": true,
